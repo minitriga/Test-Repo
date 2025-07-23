@@ -19,4 +19,4 @@ async def run(
     await group.members.fetch()
     group.members.add(device)
     await group.save(allow_upsert=True)
-    print("hi")
+    print("asdasdasdasdasdasd")
