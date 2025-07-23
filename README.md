@@ -9,7 +9,7 @@ Running `uv sync` will install all the main dependencies you need to interact wi
 ```bash
 uv sync --all-packages
 source .venv/bin/activate
-```
+```asdasDasdafasdfgas
 
 ## Starting Infrahub
 
