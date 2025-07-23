@@ -20,3 +20,4 @@ async def run(
     group.members.add(device)
     await group.save(allow_upsert=True)
     print("asdasdasdasdasdasd")
+    print("new")
